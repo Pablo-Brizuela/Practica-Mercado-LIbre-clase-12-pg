@@ -8,5 +8,49 @@ font-family: 'Roboto', sans-serif;
 header{
     background-color:#EAC926; ;
     font-size: 12px;
+    padding-bottom: 15px;
+
 }
 
+.logo{
+    margin: 25px 0px 5px 25px;
+    width: 130px;
+
+}
+
+.barraBusqueda{
+    margin-left: 25px;
+}
+
+.barraBusqueda input{
+    display: block;
+}
+.centrar{
+    text-align: center;
+}
+
+
+.burguer{
+    width: 40px;
+    height: 40px;
+    color: #ebebeb;
+    background-color:#1259c3;
+    border-radius: 8px;
+}
+
+
+h2{
+    font-size: 24px;
+}
+
+.tamañoPrecios{
+    font-size: 18px;
+}
+
+.tamañoDescuentos{
+    font-size: 16px;
+}
+
+.tamañoDescripcion{
+    font-size: 16px;
+}
