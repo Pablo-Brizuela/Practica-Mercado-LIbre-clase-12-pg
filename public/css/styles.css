@@ -47,7 +47,12 @@ header{
 }
     h2{
     font-size: 24px;
+    
 }
+
+    h3{
+    text-align: center;
+    }
 
 .tamañoPrecios{
     font-size: 18px;
@@ -89,4 +94,18 @@ p{
     font-size: 13px;
     margin: 50px 0px 20px 0px ;
     
+ }
+
+ .centrarMain{
+    margin: auto;
+    height:90% ;
+    margin: 10px 0px 10px 0px ;
+ }
+
+ .contenedor1{
+    border-top: solid 1px #ebebeb ;
+ }
+
+ .contenedor2{
+    border: solid 15px #ebebeb;
  }
